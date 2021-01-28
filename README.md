@@ -16,8 +16,8 @@ reflected in the relevant views.
 
 How to run
 ----------
+./treeview --docroot . --http-address 0.0.0.0 --http-port 9090
 
-See the README in the parent directory.
 
 What it illustrates
 -------------------
@@ -26,3 +26,4 @@ What it illustrates
 - Drag & Drop with standard item models
 - Using a `WPopupMenu`
 - Using a dialog to edit data
+
